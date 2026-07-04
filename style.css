@@ -20,6 +20,12 @@ a {
     color: rgb(221, 198, 255);
 }
 
+hr {
+    border: 0;
+    border-top: 2px solid #120024;
+    margin: 12px 0 0 0;
+}
+
 .description {
     margin: 40px;
     font-size: 25px;
@@ -53,6 +59,26 @@ a {
     object-fit: cover;
     border-radius: 8px;
     border: #120024 2px solid;
+}
+
+.social {
+    width: 30px;
+}
+
+.techLogo {
+    border-radius: 8px;
+}
+
+.tech-row {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+
+.tech-column {
+    min-width: 250px;
+    text-align: center;
+    padding: 10px;
 }
 
 #project-table {
@@ -107,7 +133,6 @@ a {
     margin: 0;
 }
 
-.social {
-    width: 30px;
+#contact {
+    margin: 12px;
 }
-

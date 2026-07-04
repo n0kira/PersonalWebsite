@@ -1,4 +1,12 @@
-# My very own website!
-This is the first website i fully build by myself. It's a really simple presentation website with a small About Me section and a Project section where I will upload all my finished projects!
 
-To make the website I used HTML and CSS with little JS!
+<div style="text-align: center;">
+
+<h1 > Nokira's Personal Website </h1>
+<p>This is my personal website!</p>
+</div>
+
+![Website Preview](img/preview.gif)
+
+<hr>
+
+# 

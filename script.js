@@ -1,7 +1,7 @@
-var discoverBtn = document.getElementById('discover');
-var detailsTxt = document.getElementById('details');
+const discoverBtn = document.getElementById('discover');
+const detailsTxt = document.getElementById('details');
 
-var isActive = false;
+let isActive = false;
 
 discoverBtn.addEventListener("click", () => {
     if (!isActive) {

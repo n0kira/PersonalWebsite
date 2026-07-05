@@ -2,14 +2,14 @@
 <div style="text-align: center;">
 
 <h1 > Nokira's Personal Website </h1>
-<p>This is my personal website!</p>
+<p>This is my personal website! Feel free to explore!</p>
 </div>
 
 ![Website Preview](img/livePreviewOwnSite.gif)
 
 <hr>
 
-# Built with
+# Built with:
 
 - **HTML**, for the structure
 - **CSS**, for styling
